@@ -174,7 +174,7 @@ Described as "THE app for ALL families", the app allows families to organize the
 
     * **Recommendation:** Add gestures that allow for easy access to important actions. Also make things easier to access in general without hiding them in menus within menus.
 
-    ![Trying to delete a task](/resources/images/D/S_7.jpg)
+    ![Trying to delete a task](/resources/images/assignment1/S_7.jpg)
 
 1. Aesthetic and minimalist design	
     * The main color scheme of blue and white is pleasing to the eyes. There are no real distractions that detract from the overall immersiveness of the app.

@@ -35,6 +35,5 @@ They would also be able to initiate games with family members.
 ---
 
 ## Cognitive Walkthrough
-```
-coming soon!
-```
+
+[Click here to see the results](https://docs.google.com/document/d/1stYeb9bTqFjyHbbe88gk2v3Cz0NQWcss_uRHZqlLiyg/edit)
